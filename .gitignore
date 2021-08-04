@@ -1,0 +1,4 @@
+node_modules/
+hr.data.json
+logs/
+.node-persist/
